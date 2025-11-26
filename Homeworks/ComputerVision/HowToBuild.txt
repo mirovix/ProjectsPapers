@@ -1,0 +1,3 @@
+Build the Source directory, all the files (images, source code and CMakeList etc.) are inside it. Do that for both labs.
+NoteLab3.pdf is a report for lab 3
+NoteLab4.pdf is a report for lab 4

@@ -1,0 +1,7 @@
+- Build the Source directory, all the files (images, source code and CMakeList etc.) are inside   it.
+
+- NoteLab5.pdf is a report for lab5.
+
+- I change the name of image
+
+- I delete foto1, foto2, and kitchen folders
